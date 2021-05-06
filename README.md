@@ -13,4 +13,4 @@ an Android app which allows users to record their daily lives
 ![Image](https://github.com/LI-SUJU/recorder/blob/main/images/6_%E7%A5%A8%E5%A4%B9.png)
 ### 我的
 ![Image](https://github.com/LI-SUJU/recorder/blob/main/images/2_%E6%88%91%E7%9A%84.png)
-更多原型设计请参考如下文件夹：https://github.com/LI-SUJU/recorder/tree/main/images
+#### 更多原型设计请参考如下文件夹：https://github.com/LI-SUJU/recorder/tree/main/images
